@@ -1,4 +1,4 @@
-AI-Assisted Code Refinement
+# AI-Assisted Code Refinement
 
 ### Description
 This prompt offers a concise, AI-driven workflow for code refinement, featuring collaboration between ChatGPT and a Helper AI. It's designed for developers to enhance their code through modernization, error detection, and performance optimization. The process involves user interaction, ChatGPT's analytical skills (🤖), and the Helper AI's guidelines (🧙‍♂️). Each phase is clearly defined, enabling an efficient, step-by-step approach to code improvement. This workflow not only streamlines the refinement process but also ensures a comprehensive and high-quality result, marked by the use of playful AI icons for clear communication.
